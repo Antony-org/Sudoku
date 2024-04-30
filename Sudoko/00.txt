@@ -1,0 +1,259 @@
+if(Integer.valueOf(T30.getText())==0)
+ {
+  T30.setText("");
+  T30.setEditable(true);
+ }
+ else
+ {
+     T30.setEditable(false);
+ }
+if(Integer.valueOf(T31.getText())==0)
+ {
+  T31.setText("");
+  T31.setEditable(true);
+ }
+ else
+ {
+     T31.setEditable(false);
+ }
+if(Integer.valueOf(T32.getText())==0)
+ {
+  T32.setText("");
+  T32.setEditable(true);
+ }
+ else
+ {
+     T32.setEditable(false);
+ }
+if(Integer.valueOf(T33.getText())==0)
+ {
+  T33.setText("");
+  T33.setEditable(true);
+ }
+ else
+ {
+     T33.setEditable(false);
+ }
+if(Integer.valueOf(T34.getText())==0)
+ {
+  T34.setText("");
+  T34.setEditable(true);
+ }
+ else
+ {
+     T34.setEditable(false);
+ }
+if(Integer.valueOf(T35.getText())==0)
+ {
+  T35.setText("");
+  T35.setEditable(true);
+ }
+ else
+ {
+     T35.setEditable(false);
+ }
+if(Integer.valueOf(T36.getText())==0)
+ {
+  T36.setText("");
+  T36.setEditable(true);
+ }
+ else
+ {
+     T36.setEditable(false);
+ }
+if(Integer.valueOf(T37.getText())==0)
+ {
+  T37.setText("");
+  T37.setEditable(true);
+ }
+ else
+ {
+     T37.setEditable(false);
+ }
+if(Integer.valueOf(T38.getText())==0)
+ {
+  T38.setText("");
+  T38.setEditable(true);
+ }
+ else
+ {
+     T38.setEditable(false);
+ }
+if(Integer.valueOf(T40.getText())==0)
+ {
+  T40.setText("");
+  T40.setEditable(true);
+ }
+ else
+ {
+     T40.setEditable(false);
+ }
+if(Integer.valueOf(T41.getText())==0)
+ {
+  T41.setText("");
+  T41.setEditable(true);
+ }
+ else
+ {
+     T41.setEditable(false);
+ }
+
+if(Integer.valueOf(T42.getText())==0)
+ {
+  T42.setText("");
+  T42.setEditable(true);
+ }
+ else
+ {
+     T42.setEditable(false);
+ }
+
+if(Integer.valueOf(T43.getText())==0)
+ {
+  T43.setText("");
+  T43.setEditable(true);
+ }
+ else
+ {
+     T43.setEditable(false);
+ }
+
+if(Integer.valueOf(T44.getText())==0)
+ {
+  T44.setText("");
+  T44.setEditable(true);
+ }
+ else
+ {
+     T44.setEditable(false);
+ }
+
+if(Integer.valueOf(T45.getText())==0)
+ {
+  T45.setText("");
+  T45.setEditable(true);
+ }
+ else
+ {
+     T45.setEditable(false);
+ }
+
+if(Integer.valueOf(T46.getText())==0)
+ {
+  T46.setText("");
+  T46.setEditable(true);
+ }
+ else
+ {
+     T46.setEditable(false);
+ }
+
+if(Integer.valueOf(T47.getText())==0)
+ {
+  T47.setText("");
+  T47.setEditable(true);
+ }
+ else
+ {
+     T47.setEditable(false);
+ }
+
+if(Integer.valueOf(T48.getText())==0)
+ {
+  T48.setText("");
+  T48.setEditable(true);
+ }
+ else
+ {
+     T48.setEditable(false);
+ }
+
+if(Integer.valueOf(T50.getText())==0)
+ {
+  T50.setText("");
+  T50.setEditable(true);
+ }
+ else
+ {
+     T50.setEditable(false);
+ }
+
+if(Integer.valueOf(T51.getText())==0)
+ {
+  T51.setText("");
+  T51.setEditable(true);
+ }
+ else
+ {
+     T51.setEditable(false);
+ }
+
+if(Integer.valueOf(T52.getText())==0)
+ {
+  T52.setText("");
+  T52.setEditable(true);
+ }
+ else
+ {
+     T52.setEditable(false);
+ }
+
+if(Integer.valueOf(T53.getText())==0)
+ {
+  T53.setText("");
+  T53.setEditable(true);
+ }
+ else
+ {
+     T53.setEditable(false);
+ }
+
+if(Integer.valueOf(T54.getText())==0)
+ {
+  T54.setText("");
+  T54.setEditable(true);
+ }
+ else
+ {
+     T54.setEditable(false);
+ }
+
+if(Integer.valueOf(T55.getText())==0)
+ {
+  T55.setText("");
+  T55.setEditable(true);
+ }
+ else
+ {
+     T55.setEditable(false);
+ }
+
+if(Integer.valueOf(T56.getText())==0)
+ {
+  T56.setText("");
+  T56.setEditable(true);
+ }
+ else
+ {
+     T56.setEditable(false);
+ }
+
+if(Integer.valueOf(T57.getText())==0)
+ {
+  T57.setText("");
+  T57.setEditable(true);
+ }
+ else
+ {
+     T57.setEditable(false);
+ }
+
+if(Integer.valueOf(T58.getText())==0)
+ {
+  T58.setText("");
+  T58.setEditable(true);
+ }
+ else
+ {
+     T58.setEditable(false);
+ }

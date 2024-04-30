@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Random-Sudoku-Generator_A003/Random-Sudoku-Generator_A003.iml" filepath="$PROJECT_DIR$/Random-Sudoku-Generator_A003/Random-Sudoku-Generator_A003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sudoko/Sudoko.iml" filepath="$PROJECT_DIR$/Sudoko/Sudoko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/soduko.iml" filepath="$PROJECT_DIR$/.idea/soduko.iml" />
+    </modules>
+  </component>
+</project>
